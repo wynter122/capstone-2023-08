@@ -18,6 +18,26 @@
 옷을 사러 나가지 않고 인터넷 쇼핑몰에서 사는 것이 평준화된 요즘, 직접 입어보지 않으니 옷 구매에 실패한 경험이 많이 있습니다.
 저희 팀은 이 점에 주목하여 **바로 지금! 👀** 보고 있는 옷을 입어보고 만족스러운 구매를 위한 가상 피팅 서비스를 기획하였습니다.
 
+## ⚡ 사용 기술
+
+<div align=left>
+	<h3>Front-end</h3>
+	<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+	<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+	<br>	
+	<h3>Back-end & Infra</h3>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Djangor&logoColor=white">
+	<br>	
+	<img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
+	<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
+	<img src="https://img.shields.io/badge/aws lambda-FF9900?style=for-the-badge&logo=aws lambda&logoColor=white">
+	<img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white">
+	<img src="https://img.shields.io/badge/amazon api gateway-FF4F8B?style=for-the-badge&logo=amazon api gateway&logoColor=white">
+	<h3>AI</h3>
+	<a href="https://arxiv.org/abs/2003.05863">Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content</a>
+</div>
+
 ## 🎥 소개 영상
 
 [![Video Label](http://img.youtube.com/vi/z_zzDvQsTQE/0.jpg)](https://youtu.be/z_zzDvQsTQE)
